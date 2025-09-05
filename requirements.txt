@@ -1,0 +1,6 @@
+streamlit
+python-docx
+PyPDF2
+gTTS
+openai>=1.0.0
+python-dotenv
